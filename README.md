@@ -18,7 +18,8 @@
   <img src="t1.jpg" alt="app" width="300">  
 
 ## **Websites I Recommend**  
-      -Hello
-      *hello
-
+  - [Coursera](https://www.coursera.org/) - Coursera offers a wide range of  
+    online courses from top universities and institutions.
+  - [TryHackMe](https://www.tryhackme.com) - TryHackMe is an interactive platform  
+    for learning cybersecurity through hands-on challenges.
 

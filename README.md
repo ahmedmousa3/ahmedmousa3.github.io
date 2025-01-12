@@ -1,6 +1,6 @@
 # ahmedmousa3.github.io  
   
-  ![photo](me.jpg)  
+  
   <img src="me.jpg" alt="app" width="300">
   
 **Name: Ahmed Mousa**  

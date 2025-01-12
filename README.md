@@ -1,8 +1,6 @@
 # ahmedmousa3.github.io
-Name: Ahmed Mousa
+Name: Ahmed Mousa 
+Email: asmousa@my.waketech.edu 
 
-Email: asmousa@my.waketech.edu
-
-This is my school account 
-
+This is my school account
 This repository will hold assignments

@@ -12,11 +12,12 @@
 # **About Me**
 ## **My Story**  
 **I used to be a Truck driver, but now I am in Cybersecurity program**  
-**This is the truck that I used to drive**
+**This is the truck that I used to drive**  
+
 <img src="t1.jpg" alt="app" width="300">  
 
 ## **Websites I Recommend**  
-      - [Coursera] (https://www.coursera.org/) - Coursera offers a wide range of  
+      - [Coursera](https://www.coursera.org/) - Coursera offers a wide range of  
       online courses from top universities and institutions.  
 
       - [TryHackMe](https://www.tryhackme.com) - TryHackMe is an interactive platform  

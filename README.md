@@ -1,5 +1,5 @@
 # ahmedmousa3.github.io  
-  <img src="me.jpg" alt="app" width="300">
+  <img src="me.jpg" alt="app" width="250">
   
 **Name: Ahmed Mousa**  
 **Email: asmousa@my.waketech.edu**  
@@ -13,7 +13,7 @@
 **This is the truck that I used to drive**  
 
 
-  <img src="t1.jpg" alt="app" width="300">  
+  <img src="t1.jpg" alt="app" width="250">  
 
 ## **Websites I Recommend**  
   - [Coursera](https://www.coursera.org/) - Coursera offers a wide range of  
